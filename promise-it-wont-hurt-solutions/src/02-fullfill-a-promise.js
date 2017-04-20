@@ -6,7 +6,7 @@
 
     }, 3000);
     promise.then((successMessage) => {
-    	console.log(successMessage);
+    	console.log();
     });
     
     
