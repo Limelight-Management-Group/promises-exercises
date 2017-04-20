@@ -40,6 +40,6 @@ first().then(second =>{
 second().then(third =>{
   console.log(third)
 })
-third().then(fourth =>{
+third().then(function (){
   console.log('done and done...')
 })
