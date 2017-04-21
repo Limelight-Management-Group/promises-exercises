@@ -19,7 +19,7 @@
  
  [x]Read this blog post
 
-
+````
 If you complete the above with time to spare, fill any gaps in your understanding by skimming through the Promises Course on Udacity.
 
 ## Day 3
