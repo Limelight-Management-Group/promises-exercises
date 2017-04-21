@@ -12,7 +12,7 @@
  [x]Read this blog post
 If you complete the above with time to spare, fill any gaps in your understanding by skimming through the Promises Course on Udacity.
 
-Day 3
+## Day 3
 
  [x]Look at the documentation of the pg-promise repository
  [x]Exercises 1-7 in the pg promise exercises are complete
@@ -23,7 +23,7 @@ Day 3
  [x]Exercise 5
  [x]Exercise 6
  [x]Exercise 7
-Day 4 & 5
+## Day 4 & 5
 
  [x]Exercises 1-13 in the promise-it-wont-hurt-solutions are complete and written to the appropriate file:
  [x]src/01-warmup.js
