@@ -60,12 +60,16 @@ If you complete the above with time to spare, fill any gaps in your understandin
  [x]src/07-promise-after-promise.js
  
  [x]src/08-values-and-promises.js   
+ 
  [x]src/09-throw-an-error.js  
+ 
  `see note below
  `
  [x]src/10-an-important-file.js 
+ 
  `* see note below
  `
+ 
  [x]src/11-multiple-promises.js
  
  [x]src/12-fetch-json.js
