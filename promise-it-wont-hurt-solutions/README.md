@@ -63,12 +63,16 @@ If you complete the above with time to spare, fill any gaps in your understandin
  
  [x]src/09-throw-an-error.js  
  
+ 
  `see note below
  `
+ 
  [x]src/10-an-important-file.js 
+ 
  
  `* see note below
  `
+ 
  
  [x]src/11-multiple-promises.js
  
