@@ -4,7 +4,8 @@
 
  [x] Complete these sections (including the exercises) of the Rethinking Asynchronous JavaScript on Frontend Masters
  
- [x]Parallel vs. Async
+ ````[x]Parallel vs. Async
+ ````
  
  [x]Callback
  
