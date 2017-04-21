@@ -19,11 +19,11 @@
  
  [x]Read this blog post
 
-````
+```
 If you complete the above with time to spare, fill any gaps in your understanding by skimming through the Promises Course on Udacity.
 
 ## Day 3
-
+```
  [x]Look at the documentation of the pg-promise repository
  
  [x]Exercises 1-7 in the pg promise exercises are complete
@@ -41,9 +41,9 @@ If you complete the above with time to spare, fill any gaps in your understandin
  [x]Exercise 6
  
  [x]Exercise 7
-
+```
 ## Day 4 & 5
-
+```
  [x]Exercises 1-13 in the promise-it-wont-hurt-solutions are complete and written to the appropriate file:
  
  [x]src/01-warmup.js
@@ -64,20 +64,17 @@ If you complete the above with time to spare, fill any gaps in your understandin
  
  [x]src/09-throw-an-error.js  
  
- 
  `see note below
  `
- 
  [x]src/10-an-important-file.js 
- 
+
  
  `* see note below
  `
- 
  
  [x]src/11-multiple-promises.js
  
  [x]src/12-fetch-json.js
  
  [x]src/13-do-some-work.js
-
+```
